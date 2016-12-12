@@ -16,15 +16,10 @@ import {
   BaBackTop,
   BaCard,
   BaChartistChart,
-  BaCheckbox,
   BaContentTop,
-  BaFullCalendar,
   BaMenuItem,
   BaMenu,
-  BaMsgCenter,
-  BaMultiCheckbox,
   BaPageTop,
-  BaPictureUploader,
   BaSidebar
 } from './components';
 
@@ -58,15 +53,10 @@ const NGA_COMPONENTS = [
   BaBackTop,
   BaCard,
   BaChartistChart,
-  BaCheckbox,
   BaContentTop,
-  BaFullCalendar,
   BaMenuItem,
   BaMenu,
-  BaMsgCenter,
-  BaMultiCheckbox,
   BaPageTop,
-  BaPictureUploader,
   BaSidebar
 ];
 
